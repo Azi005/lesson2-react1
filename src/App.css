@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.div_flex {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.div {
+  width: 100px;
+  height: 100px;
+}
